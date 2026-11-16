@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Shodan-API-red.svg?style=for-the-badge&logo=shodan&logoColor=white" alt="Shodan">
   <img src="https://img.shields.io/badge/InternetDB-Enrichment-orange.svg?style=for-the-badge&logo=security&logoColor=white" alt="InternetDB">
-  <img src="https://img.shields.io/badge/License-Academic-green.svg?style=for-the-badge" alt="License">
 </p>
 
 ---
