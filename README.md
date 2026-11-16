@@ -1,6 +1,29 @@
-# Shodan_PHPHunter (phphunter.py)
+<p align="center">
+  <img src="https://via.placeholder.com/800x200.png?text=PHP+Hunter+OSINT+Automation+Tool" alt="PHP Hunter Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Shodan-API-red.svg?style=for-the-badge&logo=shodan&logoColor=white" alt="Shodan">
+  <img src="https://img.shields.io/badge/InternetDB-Enrichment-orange.svg?style=for-the-badge&logo=security&logoColor=white" alt="InternetDB">
+  <img src="https://img.shields.io/badge/License-Academic-green.svg?style=for-the-badge" alt="License">
+</p>
+
+---
+
+# 🛡️ PHP Hunter (`phphunter.py`)
 
 Herramienta de investigación OSINT automatizada para el mapeo y análisis de servidores PHP expuestos a nivel global utilizando la API oficial de Shodan e InternetDB. Este script ha sido desarrollado en el ámbito académico para auditar la exposición de versiones obsoletas (*End of Life*) y vulnerabilidades críticas recientes (como el caso `PHP2Shell`, CVE-2026-109618 y CVE-2026-109619).
+
+---
+
+## 📑 Tabla de Contenidos
+- [Características principales](#-características-principales)
+- [Requisitos previos](#-requisitos-previos)
+- [Instalación y Configuración](#️-instalación-y-configuración)
+- [Modo de Uso](#-modo-de-uso)
+- [Estructura de los Archivos](#-estructura-de-los-archivos)
+- [Aviso Legal](#️-aviso-legal)
 
 ---
 
