@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=PHP+Hunter+OSINT+Automation+Tool" alt="PHP Hunter Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=180&section=header&text=PHP%20Hunter%20OSINT%20Tool&fontSize=35&fontColor=58a6ff&fontAlignY=50&desc=Auditoría%20Masiva%20de%20Servidores%20PHP%20y%20Vulnerabilidades&descSize=15&descColor=8b949e" alt="PHP Hunter Banner" width="100%">
 </p>
 
 <p align="center">
